@@ -14,7 +14,7 @@ Data comes from `$.session.usage({ breakdown: 'summary' })`, the same numbers `/
 Needs a Claude Code build with function-hook mods (developed on 2.1.289).
 
 ```sh
-git clone <this repo> ~/Gits/context-bar
+git clone https://github.com/Olympus-Work/context-bar ~/Gits/context-bar
 claude --plugin-dir ~/Gits/context-bar
 ```
 
