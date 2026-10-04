@@ -1,1 +1,1 @@
-{ "name": "context-bar", "version": "0.1.0", "license": "MIT", "description": "/context-bar toggles a live pane showing the context window by category" }
+{ "name": "context-bar", "version": "0.1.0", "license": "MIT", "author": { "name": "Olympus-Work", "url": "https://github.com/Olympus-Work" }, "description": "/context-bar toggles a live pane showing the context window by category" }
