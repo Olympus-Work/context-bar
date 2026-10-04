@@ -29,3 +29,7 @@ To load it in every session, set the `CLAUDE_CODE_PLUGIN_DIRS` environment varia
 ## Notes
 
 Categories are matched by the names Claude Code reports (e.g. "MCP tools"). If a future release renames one, its legend entry will read 0 until the matcher in `register.tsx` is updated.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
