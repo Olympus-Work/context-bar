@@ -26,7 +26,7 @@ export const register: Register = on => {
   on('session.start', async ($, e, next) => {
     await $.command.register({
       name: 'context-bar',
-      description: 'Toggle a live pane showing the context window by category',
+      description: 'Toggle the live context-window bar above the prompt',
     })
     $.clock.every(2000, () => $.ui.invalidate('ui.render'))
 
